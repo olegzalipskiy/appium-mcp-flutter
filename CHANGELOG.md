@@ -1,3 +1,9 @@
+## [1.21.0](https://github.com/appium/appium-mcp/compare/v1.20.0...v1.21.0) (2026-02-26)
+
+### Features
+
+* **session:** add mobile open-notifications tool ([#182](https://github.com/appium/appium-mcp/issues/182)) ([c3d7ef2](https://github.com/appium/appium-mcp/commit/c3d7ef21dcb5c761050bd778261efd99f8808f2b))
+
 ## [1.20.0](https://github.com/appium/appium-mcp/compare/v1.19.1...v1.20.0) (2026-02-25)
 
 ### Features
