@@ -1,3 +1,9 @@
+## [1.21.1](https://github.com/appium/appium-mcp/compare/v1.21.0...v1.21.1) (2026-03-02)
+
+### Bug Fixes
+
+* remote server URL port handling for default ports ([#184](https://github.com/appium/appium-mcp/issues/184)) ([6d138b8](https://github.com/appium/appium-mcp/commit/6d138b83373bfb4b5a956c5a048da65c937c0646))
+
 ## [1.21.0](https://github.com/appium/appium-mcp/compare/v1.20.0...v1.21.0) (2026-02-26)
 
 ### Features
