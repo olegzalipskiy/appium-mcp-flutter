@@ -1,3 +1,9 @@
+## [1.23.1](https://github.com/appium/appium-mcp/compare/v1.23.0...v1.23.1) (2026-03-08)
+
+### Bug Fixes
+
+* use mcp publisher from the official template ([#192](https://github.com/appium/appium-mcp/issues/192)) ([d94088c](https://github.com/appium/appium-mcp/commit/d94088cb1058cd18699445ce366e29466da740b9))
+
 ## [1.23.0](https://github.com/appium/appium-mcp/compare/v1.22.0...v1.23.0) (2026-03-08)
 
 ### Features
