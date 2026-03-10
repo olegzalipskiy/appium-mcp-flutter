@@ -1,3 +1,9 @@
+## [1.24.0](https://github.com/appium/appium-mcp/compare/v1.23.1...v1.24.0) (2026-03-10)
+
+### Features
+
+* tune default caps for ios ([#194](https://github.com/appium/appium-mcp/issues/194)) ([bb07cf9](https://github.com/appium/appium-mcp/commit/bb07cf9bf944cec12b863e54ac5f46332dd9d781))
+
 ## [1.23.1](https://github.com/appium/appium-mcp/compare/v1.23.0...v1.23.1) (2026-03-08)
 
 ### Bug Fixes
