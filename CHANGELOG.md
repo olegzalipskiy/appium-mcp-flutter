@@ -1,3 +1,9 @@
+## [1.31.0](https://github.com/appium/appium-mcp/compare/v1.30.0...v1.31.0) (2026-03-21)
+
+### Features
+
+* **tools:** implement battery info ([#219](https://github.com/appium/appium-mcp/issues/219)) ([f67ea39](https://github.com/appium/appium-mcp/commit/f67ea3989a34dc13ca36bccb915fb87ae8f7304a))
+
 ## [1.30.0](https://github.com/appium/appium-mcp/compare/v1.29.0...v1.30.0) (2026-03-20)
 
 ### Features
