@@ -322,6 +322,8 @@ The default regex pattern allows any URL that starts with `http://` or `https://
 | `appium_pinch`        | Perform a pinch gesture to zoom in (scale > 1) or zoom out (scale < 1) on an element or the whole screen. Works on both iOS and Android. |
 | `appium_set_value`    | Enter text into an input field                                                               |
 | `appium_get_text`     | Get text content from an element                                                             |
+| `appium_get_clipboard` | Get the current clipboard content as plain text from the device            |
+| `appium_set_clipboard` | Set the device clipboard to the provided plain text                        |
 | `appium_handle_alert` | Accept or dismiss system/permission alerts, or click a dialog button by label |
 
 ### Screen & Navigation
