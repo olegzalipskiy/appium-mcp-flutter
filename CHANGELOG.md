@@ -1,3 +1,9 @@
+## [1.34.3](https://github.com/appium/appium-mcp/compare/v1.34.2...v1.34.3) (2026-03-23)
+
+### Miscellaneous Chores
+
+* remove unnecessary submodules ([76b0254](https://github.com/appium/appium-mcp/commit/76b0254fedc0186ae18d59b6846c31559e5bf85e))
+
 ## [1.34.2](https://github.com/appium/appium-mcp/compare/v1.34.1...v1.34.2) (2026-03-23)
 
 ### Miscellaneous Chores
